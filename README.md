@@ -11,7 +11,7 @@ Após isso, renomeie a pasta copiada, que foi colocada dentro do servidor, para 
 
 ### Diferenciais implementados
   - Banco de dados
-  - Wakatime
+  - [Wakatime](https://wakatime.com/@44c37bfc-b7a8-45a2-9154-06fddd1c175f/projects/aylngysfdh?start=2018-02-11&end=2018-02-17)
   - Padrão de programação da tecnologia escolhida
   - Clean code
 
